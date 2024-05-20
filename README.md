@@ -1,7 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6)]
+[![MasterHead](https://www.dataquest.io/wp-content/uploads/2019/04/py1m1_curriculum.gif)
 <h1 align="center">Hi 👋, I'm Tariq Mufid Al-Yassin</h1>
 <h3 align="center">Dedicated and ambitious Data Scientist</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqalyassin&label=Profile%20views&color=0e75b6&style=flat" alt="tariqalyassin" /> </p>
